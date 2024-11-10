@@ -2,6 +2,7 @@ import 'package:args/args.dart';
 
 const String version = '0.0.1';
 // test cuz holy shit i have no idea how git works
+// please
 ArgParser buildParser() {
   return ArgParser()
     ..addFlag(
