@@ -1,7 +1,7 @@
 import 'package:args/args.dart';
 
 const String version = '0.0.1';
-
+// this is some major conspiracy, how do i change what branch vscode pushes to?
 ArgParser buildParser() {
   return ArgParser()
     ..addFlag(
